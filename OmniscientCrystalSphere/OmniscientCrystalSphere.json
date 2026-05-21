@@ -1,0 +1,12 @@
+{
+  "id": "OmniscientCrystalSphere",
+  "name": "Omniscient Crystal Sphere",
+  "author": "没有鹿_",
+  "description": "水晶球全知全能 (适配 v0.105.1)",
+  "version": "v0.2.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "compatible_game_versions": ["0.105.1"],
+  "affects_gameplay": false
+}
